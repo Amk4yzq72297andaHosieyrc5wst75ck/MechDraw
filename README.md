@@ -3,3 +3,4 @@ MechanicalObjectives
 SetupGuide
 CADFeatures
 DependenciesList
+CodeExamples
