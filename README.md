@@ -4,3 +4,4 @@ SetupGuide
 CADFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
