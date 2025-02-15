@@ -5,3 +5,4 @@ CADFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
