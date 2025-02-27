@@ -11,3 +11,4 @@ LicenseDetails
 MechanicalFAQ
 Changelog
 TestingInstructions
+SimulationPerformance
