@@ -12,3 +12,4 @@ MechanicalFAQ
 Changelog
 TestingInstructions
 SimulationPerformance
+CommunityResources
